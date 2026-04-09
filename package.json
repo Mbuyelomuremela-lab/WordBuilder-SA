@@ -1,0 +1,17 @@
+{
+  "name": "wordbuilder-sa",
+  "version": "1.0.0",
+  "description": "WordBuilder SA – South African language learning game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
